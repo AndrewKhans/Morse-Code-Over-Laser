@@ -4,10 +4,10 @@ An arduino project lol.
 
 ## Authors
 
-* **Andrew Khanschassoff** - *Coding* - [Email](mailto:khansa@rpi.edu)
+* **Andrew Khanschassoff** - *Coding + Crippled* - [Email](mailto:khansa@rpi.edu)
 
-* **Alan Bahr**
+* **Alan Bahr** - *Coding + Moral Support* - [Email](mailto:bahra@rpi.edu)
 
 ## Acknowledgments
 
-* Jeff- Great Tcher
+* Jeff- Great Teacher
