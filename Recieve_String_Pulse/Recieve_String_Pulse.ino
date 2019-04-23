@@ -59,8 +59,6 @@ void setup() {
   pinMode(A0, INPUT);
   Serial.begin(9600);
 
-  Serial.println(findChar(String(".")));
-
   while (analogRead(A0) < threshold) {} // Wait for a pulse to begin
   Serial.println("Transmission started!");
 
