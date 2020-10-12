@@ -1,6 +1,6 @@
 # Morse-Code-Over-Laser
 
-An arduino project lol
+An arduino project
 
 ## Project Overview
 
